@@ -1,8 +1,8 @@
 # Joplin Plugin Bundle
 
-Plugins in one panel. Some of the plugins come from other repo, and I modified them to show all the plugin panels in the same panel under different tabs.
+Plugins in one panel. This plugin could be presented as a "meta-plugin". The idea is to integrate different existing plugins and some new ones in a single panel. Some existing plugins are modified to integrate into the panel to be presented as different tabs. 
 
-> **Why?** : Save my screen space by aggregating those plugins into one panel
+> **Why?** : Save space on the screen.
 
 > **How?** : Copy & Paste code from existing plugins, and modify them at the code level. I cannot figure out a non-intrusive way to gather them together in one panel.
 
